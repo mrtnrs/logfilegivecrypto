@@ -30,5 +30,13 @@
     "newAddress": "1JLw4U6KFnY4CTurgtPiACEs9JfXbsLpHN",
     "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
     "timestamp": "2025-06-14T11:37:12.047Z"
+  },
+  {
+    "campaignId": 37,
+    "walletType": "DOGE",
+    "changeType": "ADD",
+    "newAddress": "D5gqyUaB8BMVFCixjix6HMPS55cD9cxZEQ",
+    "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
+    "timestamp": "2025-06-14T11:37:13.212Z"
   }
 ]
