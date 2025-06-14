@@ -22,5 +22,13 @@
     "newAddress": "0xDd6831394Ea89a04482fED6b821EE7b01A7C7645",
     "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
     "timestamp": "2025-06-13T21:35:22.132Z"
+  },
+  {
+    "campaignId": 37,
+    "walletType": "BTC",
+    "changeType": "ADD",
+    "newAddress": "1JLw4U6KFnY4CTurgtPiACEs9JfXbsLpHN",
+    "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
+    "timestamp": "2025-06-14T11:37:12.047Z"
   }
 ]
