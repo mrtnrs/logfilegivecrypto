@@ -102,5 +102,13 @@
     "newAddress": "D5gqyUaB8BMVFCixjix6HMPS55cD9cxZEQ",
     "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
     "timestamp": "2025-06-20T12:18:41.305Z"
+  },
+  {
+    "campaignId": 39,
+    "walletType": "ADA",
+    "changeType": "ADD",
+    "newAddress": "addr1vxxrzy4v0f34595au8dx7vfxy268nrv06pwqqa9hd9lv2pqpuhj5j",
+    "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
+    "timestamp": "2025-06-20T12:18:42.375Z"
   }
 ]
