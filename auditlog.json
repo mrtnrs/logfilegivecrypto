@@ -110,5 +110,13 @@
     "newAddress": "addr1vxxrzy4v0f34595au8dx7vfxy268nrv06pwqqa9hd9lv2pqpuhj5j",
     "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
     "timestamp": "2025-06-20T12:18:42.375Z"
+  },
+  {
+    "campaignId": 39,
+    "walletType": "LINK",
+    "changeType": "ADD",
+    "newAddress": "0x3a551ae82b66f315f0341ce2ae100d6c8784a8b2",
+    "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
+    "timestamp": "2025-06-20T12:18:43.373Z"
   }
 ]
