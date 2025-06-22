@@ -126,5 +126,13 @@
     "newAddress": "LTMnJnEAh4KpgMnpy18NRoBey3Erz5AJxb",
     "actor": "3f1052c7-1113-4c25-a853-1d04ecff4b09",
     "timestamp": "2025-06-20T12:18:44.473Z"
+  },
+  {
+    "campaignId": 40,
+    "walletType": "ETH",
+    "changeType": "ADD",
+    "newAddress": "0xcaba3caf5c26a538d75ebb96c5816501b57f39a1",
+    "actor": "131bca61-6347-41ca-bef7-12b3aa54227b",
+    "timestamp": "2025-06-22T01:54:36.854Z"
   }
 ]
