@@ -150,5 +150,13 @@
     "newAddress": "0xb26De0CA6fA0aC9E3E8F32555128aCA43105Bff7",
     "actor": "87a18a51-1649-4e70-8a91-a97f1bcd55a8",
     "timestamp": "2025-06-23T18:03:08.945Z"
+  },
+  {
+    "campaignId": 41,
+    "walletType": "LTC",
+    "changeType": "ADD",
+    "newAddress": "ltc1qpza7kg9v2vqqskv78a65xexs9y5vdggtc7k646",
+    "actor": "87a18a51-1649-4e70-8a91-a97f1bcd55a8",
+    "timestamp": "2025-06-23T18:03:10.211Z"
   }
 ]
