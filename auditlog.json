@@ -174,5 +174,13 @@
     "newAddress": "D6Dj44e9rfWeBCV7T9MwCCUqnAoAFnWzsW",
     "actor": "87a18a51-1649-4e70-8a91-a97f1bcd55a8",
     "timestamp": "2025-06-23T18:03:12.550Z"
+  },
+  {
+    "campaignId": 41,
+    "walletType": "BCH",
+    "changeType": "ADD",
+    "newAddress": "bitcoincash:qzuulamxfkt3rp7rem7djc7rzjwk3a7lauw92zvsw0",
+    "actor": "87a18a51-1649-4e70-8a91-a97f1bcd55a8",
+    "timestamp": "2025-06-23T18:03:13.628Z"
   }
 ]
