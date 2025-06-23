@@ -142,5 +142,13 @@
     "newAddress": "bc1qx9rz0spw9vqask4he46fey8vlkf6xxyqmw4l8w",
     "actor": "87a18a51-1649-4e70-8a91-a97f1bcd55a8",
     "timestamp": "2025-06-23T18:03:07.697Z"
+  },
+  {
+    "campaignId": 41,
+    "walletType": "ETH",
+    "changeType": "ADD",
+    "newAddress": "0xb26De0CA6fA0aC9E3E8F32555128aCA43105Bff7",
+    "actor": "87a18a51-1649-4e70-8a91-a97f1bcd55a8",
+    "timestamp": "2025-06-23T18:03:08.945Z"
   }
 ]
