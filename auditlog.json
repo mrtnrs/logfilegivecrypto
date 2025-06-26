@@ -182,5 +182,13 @@
     "newAddress": "bitcoincash:qzuulamxfkt3rp7rem7djc7rzjwk3a7lauw92zvsw0",
     "actor": "87a18a51-1649-4e70-8a91-a97f1bcd55a8",
     "timestamp": "2025-06-23T18:03:13.628Z"
+  },
+  {
+    "campaignId": 42,
+    "walletType": "BTC",
+    "changeType": "ADD",
+    "newAddress": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+    "actor": "08a462bc-0a0d-4d77-a665-20c14432284d",
+    "timestamp": "2025-06-26T13:28:48.452Z"
   }
 ]
