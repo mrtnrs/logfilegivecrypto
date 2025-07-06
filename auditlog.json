@@ -342,5 +342,13 @@
     "newAddress": "bc1q87dt0nzekaxt4ppznfhhkm66qku49gde6smduq",
     "actor": "972dcc04-927e-4cde-8279-ad3803473a0b",
     "timestamp": "2025-07-06T01:10:11.552Z"
+  },
+  {
+    "campaignId": 61,
+    "walletType": "USDC",
+    "changeType": "ADD",
+    "newAddress": "0x8F0de973f809C187781a6D3a1689Da7af3F1193b",
+    "actor": "972dcc04-927e-4cde-8279-ad3803473a0b",
+    "timestamp": "2025-07-06T01:13:38.130Z"
   }
 ]
